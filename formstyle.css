@@ -1,0 +1,18 @@
+#div1{
+    color: rgb(211, 5, 53);
+    font-weight: bold;
+
+}
+body{
+    
+    background-image: url(images/formfillingimage.jpg);
+    background-size: cover;
+}
+.cname{
+    background-color: chocolate;
+    font-weight: bold;
+    
+}
+#cname{
+    
+}
